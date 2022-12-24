@@ -2,7 +2,7 @@
 
 basic `node.js` project with:
 
-- `commonjs` configuration: the type of module used [i.e: use `require()`, `module.exports` for importing and exporting modules].
+- `es6 module` configuration: the type of module used [i.e: use es6 `import`, `export` methods for importing and exporting modules].
 - `typeScript` configuration: use of typed java script to ensure no developmental errors.
 - `prettier` configuration: to unify the style of code.
 - `eslint` configuration: to check for errors before build.
